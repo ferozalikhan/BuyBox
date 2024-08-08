@@ -113,10 +113,17 @@ Contributions are welcome!
 
 ## Contact
 
-For any inquiries or feedback, please reach out to:
-- **Email:** [ferozkhan@mail.com](mailto:ferozkhan@mail.com)
-- **GitHub Issues:** [GitHub Issues](https://github.com/yourusername/buybox/issues)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+For any inquiries, feedback, or contributions, please reach out to:
+
+- **Email:** [ferozkhan@mail.com](mailto:ferozalikhan666@gmail.com)  
+  *Feel free to email me with any questions or feedback about BuyBox.*
+
+- **GitHub Issues:** [BuyBox GitHub Issues](https://github.com/feroz-ali-khan/buybox/issues)  
+  *Report bugs, request features, or ask for help directly on the GitHub issues page.*
+
+- **LinkedIn:** [Feroz Khan](https://www.linkedin.com/in/feroz-khan-95a166318/)  
+  *Connect with me on LinkedIn to stay updated on my projects or to discuss potential collaborations.*
+
 
 We welcome your feedback and contributions to make BuyBox even better!
 

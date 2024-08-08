@@ -19,21 +19,6 @@ This app simplifies buying and selling vehicles. Connect with trusted sellers, b
 
 BuyBox is a comprehensive automotive marketplace app built with Flutter and Firebase. It connects buyers with sellers for a smooth car-buying experience. Users can easily post items for sale, search and filter listings by category (SUVs, sedans, trucks, motorcycles, boats, auto parts, etc.), and communicate directly with sellers. With robust functionality like map view, dark mode, and real-time chat, BuyBox aims to make the vehicle purchasing process smooth and efficient.
 
-## Tech Stack
-* **Flutter** (Client-side development)
-* **Firebase** (Backend services, authentication)
-* **Google Maps APIs** (Location services)
-
-## Features
-* **User-friendly Interface:** Easy navigation for a seamless experience.
-* **Secure Login:** Safeguard your account with secure sign-up and login.
-* **Sell Your Car:** List vehicles and auto parts with detailed descriptions and pictures.
-* **Find Your Dream Car:** Search and filter listings by category, price, location, and more.
-* **Favorite Listings:** Save cars you love for later reference.
-* **Chat with Sellers:** Communicate directly with sellers through in-app chat.
-* **Map View:** View item locations on a map.
-* **Dark Mode:** Enjoy a comfortable viewing experience.
-
 ## Screenshots & Videos
 
 ### 📸 Screenshots
@@ -61,6 +46,21 @@ BuyBox is a comprehensive automotive marketplace app built with Flutter and Fire
 **3. Chat Feature**
 [![Chat Feature Video](https://img.youtube.com/vi/wXaKX9Dgsuc/maxresdefault.jpg)](https://youtu.be/wXaKX9Dgsuc)
 *See how the in-app chat feature enhances communication between buyers and sellers.*
+
+## Tech Stack
+* **Flutter** (Client-side development)
+* **Firebase** (Backend services, authentication)
+* **Google Maps APIs** (Location services)
+
+## Features
+* **User-friendly Interface:** Easy navigation for a seamless experience.
+* **Secure Login:** Safeguard your account with secure sign-up and login.
+* **Sell Your Car:** List vehicles and auto parts with detailed descriptions and pictures.
+* **Find Your Dream Car:** Search and filter listings by category, price, location, and more.
+* **Favorite Listings:** Save cars you love for later reference.
+* **Chat with Sellers:** Communicate directly with sellers through in-app chat.
+* **Map View:** View item locations on a map.
+* **Dark Mode:** Enjoy a comfortable viewing experience.
 
 ## Getting Started
 

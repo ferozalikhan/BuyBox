@@ -19,27 +19,6 @@ This app simplifies buying and selling vehicles. Connect with trusted sellers, b
 
 BuyBox is a comprehensive automotive marketplace app built with Flutter and Firebase. It connects buyers with sellers for a smooth car-buying experience. Users can easily post items for sale, search and filter listings by category (SUVs, sedans, trucks, motorcycles, boats, auto parts, etc.), and communicate directly with sellers. With robust functionality like map view, dark mode, and real-time chat, BuyBox aims to make the vehicle purchasing process smooth and efficient.
 
-## Screenshots
-
-![Sign Up Screen](assets/media/Signup_Login.png)
-
-![Drawer Comparison](assets/media/Drawer_Signed_vs_NotSigned.png)
-
-## Videos
-
-**Listing Management**
-[![Listing Management Video](https://img.youtube.com/vi/o6xA20J1ThU/maxresdefault.jpg)](https://youtu.be/o6xA20J1ThU)
-*Click the image to watch the video.*
-
-**Detail Screen**
-[![Detail Screen Video](https://img.youtube.com/vi/55udmKIJ0CU/maxresdefault.jpg)](https://youtu.be/55udmKIJ0CU)
-*Click the image to watch the video.*
-
-**Chat Feature**
-[![Chat Feature Video](https://img.youtube.com/vi/wXaKX9Dgsuc/maxresdefault.jpg)](https://youtu.be/wXaKX9Dgsuc)
-*Click the image to watch the video.*
-
-
 ## Tech Stack
 * **Flutter** (Client-side development)
 * **Firebase** (Backend services, authentication)
@@ -54,6 +33,34 @@ BuyBox is a comprehensive automotive marketplace app built with Flutter and Fire
 * **Chat with Sellers:** Communicate directly with sellers through in-app chat.
 * **Map View:** View item locations on a map.
 * **Dark Mode:** Enjoy a comfortable viewing experience.
+
+## Screenshots & Videos
+
+### 📸 Screenshots
+
+**User Authentication Screens:**
+![Sign Up Screen](assets/media/Signup_Login.png)
+*Explore the seamless sign-up and login process of BuyBox.*
+
+**Drawer View:**
+![Drawer Comparison](assets/media/Drawer_Signed_vs_NotSigned.png)
+*See the difference in functionality between signed-in and not signed-in views in the drawer.*
+
+---
+
+### 🎥 Videos
+
+**1. Listing Management**
+[![Listing Management Video](https://img.youtube.com/vi/o6xA20J1ThU/maxresdefault.jpg)](https://youtu.be/o6xA20J1ThU)
+*Watch how you can effortlessly manage and list vehicles or auto parts.*
+
+**2. Detail Screen**
+[![Detail Screen Video](https://img.youtube.com/vi/55udmKIJ0CU/maxresdefault.jpg)](https://youtu.be/55udmKIJ0CU)
+*Get a closer look at the detailed view of vehicle listings, including images and map locations.*
+
+**3. Chat Feature**
+[![Chat Feature Video](https://img.youtube.com/vi/wXaKX9Dgsuc/maxresdefault.jpg)](https://youtu.be/wXaKX9Dgsuc)
+*See how the in-app chat feature enhances communication between buyers and sellers.*
 
 ## Getting Started
 

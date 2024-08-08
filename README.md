@@ -74,8 +74,17 @@ Before you start using BuyBox, make sure you have:
 
 ### Installation
 1. **Clone the Repo:**
-   ```bash
-   git clone [https://github.com/yourusername/buybox.git](https://github.com/yourusername/buybox.git)
+   Choose one of the following methods to clone the repository:
+
+   - **Using SSH:**  
+     ```bash
+     git clone git@github.com:feroz-ali-khan/buybox.git
+     ```
+
+   - **Using HTTPS:**  
+     ```bash
+     git clone https://github.com/feroz-ali-khan/buybox.git
+     ```
 2. **Navigate to the Project Directory**:
    ```bash
    cd buybox

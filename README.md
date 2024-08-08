@@ -19,6 +19,8 @@ This app simplifies buying and selling vehicles. Connect with trusted sellers, b
 
 BuyBox is a comprehensive automotive marketplace app built with Flutter and Firebase. It connects buyers with sellers for a smooth car-buying experience. Users can easily post items for sale, search and filter listings by category (SUVs, sedans, trucks, motorcycles, boats, auto parts, etc.), and communicate directly with sellers. With robust functionality like map view, dark mode, and real-time chat, BuyBox aims to make the vehicle purchasing process smooth and efficient.
 
+---
+
 ## Screenshots & Videos
 
 ### 📸 Screenshots
@@ -48,9 +50,10 @@ BuyBox is a comprehensive automotive marketplace app built with Flutter and Fire
 *See how the in-app chat feature enhances communication between buyers and sellers.*
 
 **4. Search & Filter Feature**
-[![Chat Feature Video](https://img.youtube.com/vi/AVCtrwxUHog/maxresdefault.jpg)](https://youtu.be/AVCtrwxUHog)
+[![Search & Filter Feature Video](https://img.youtube.com/vi/AVCtrwxUHog/maxresdefault.jpg)](https://youtu.be/AVCtrwxUHog)
+*Discover how the search and filter options help you find specific listings based on various criteria.*
 
-
+---
 
 ## Tech Stack
 * **Flutter** (Client-side development)

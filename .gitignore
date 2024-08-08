@@ -1,0 +1,95 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (Uncomment if you don't want to track .vscode files)
+# .vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio build artifacts
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+
+# Firebase credentials (Consider excluding these if they contain sensitive information)
+# firebase.json (if it contains sensitive info)
+firebase.json
+google-services.json 
+GoogleService-Info.plist 
+**/firebase_app_id_file.json
+
+# ignore .firebaserc for all examples
+**/.firebaserc
+
+# Firebase Cloud Functions
+functions/
+
+# Exclude sensitive or unnecessary files
+*.lock
+node_modules/
+package-lock.json
+eslint.config.mjs
+
+# Flutter assets if not needed
+flutter_01.png
+flutter_02.png
+flutter_03.png
+flutter_04.png
+flutter_05.png
+flutter_06.png
+flutter_07.png
+flutter_08.png
+
+# Exclude specific file
+cins467-f23-60bb500fa3eb.json
+
+# Ignore macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Desktop Services Store file
+.DS_Store
+
+# Quicklook
+**/._*
+
+# Trash folder which might appear on USB keys
+.Trashes

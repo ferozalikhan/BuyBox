@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "eslint": "^9.7.0",
+    "eslint-plugin-fix": "^0.0.11",
+    "globals": "^15.8.0"
+  }
+}

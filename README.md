@@ -47,6 +47,11 @@ BuyBox is a comprehensive automotive marketplace app built with Flutter and Fire
 [![Chat Feature Video](https://img.youtube.com/vi/wXaKX9Dgsuc/maxresdefault.jpg)](https://youtu.be/wXaKX9Dgsuc)
 *See how the in-app chat feature enhances communication between buyers and sellers.*
 
+**4. Search & Filter Feature**
+[![Chat Feature Video](https://img.youtube.com/vi/AVCtrwxUHog/maxresdefault.jpg)](https://youtu.be/AVCtrwxUHog)
+
+
+
 ## Tech Stack
 * **Flutter** (Client-side development)
 * **Firebase** (Backend services, authentication)

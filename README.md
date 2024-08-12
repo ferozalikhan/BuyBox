@@ -21,47 +21,58 @@ BuyBox is a comprehensive automotive marketplace app built with Flutter and Fire
 
 ## Screenshots & Videos
 
+## Screenshots & Videos
+
 ### 📸 Screenshots
 
-**User Authentication Screens:**
-![Sign Up Screen](assets/media/Signup_Login.png)
-*Explore the seamless sign-up and login process of BuyBox.*
+1. **User Authentication Screens**
+   - ![Sign Up Screen](assets/media/Signup_Login.png)
+   - *Explore the seamless sign-up and login process of BuyBox, ensuring a smooth onboarding experience.*
 
-**Drawer View:**
-![Drawer Comparison](assets/media/Drawer_Signed_vs_NotSigned.png)
-*See the difference in functionality between signed-in and not signed-in views in the drawer.*
+2. **Drawer View**
+   - ![Drawer Comparison](assets/media/Drawer_Signed_vs_NotSigned.png)
+   - *See the difference between signed-in and not signed-in views, giving users access to personalized features when signed in.*
 
-![In App Communication](assets/media/Chat_Features.png)
-![Drawer Comparison](assets/media/Detailed_Vehicle_Information.png)
-![Drawer Comparison](assets/media/Listing_Managment.png)
-![Drawer Comparison](assets/media/MyProfile&SavedItems.png)
-![Drawer Comparison](assets/media/Search&FIlter.png)
+3. **In-App Communication**
+   - ![In App Communication](assets/media/Chat_Features.png)
+   - *Experience the in-app chat feature, enabling seamless communication between buyers and sellers.*
 
+4. **Detailed Vehicle Information**
+   - ![Detailed Vehicle Information](assets/media/Detailed_Vehicle_Information.png)
+   - *Get a comprehensive look at vehicle details, including images, descriptions, and location maps.*
 
+5. **Listing Management**
+   - ![Listing Management](assets/media/Listing_Managment.png)
+   - *Efficiently manage and list your vehicles or auto parts, with easy-to-use editing and deleting features.*
 
+6. **Profile & Saved Items**
+   - ![Profile & Saved Items](assets/media/MyProfile&SavedItems.png)
+   - *Manage your profile and keep track of your favorite listings in one convenient place.*
 
-
-
+7. **Search & Filter Features**
+   - ![Search & Filter Features](assets/media/Search&FIlter.png)
+   - *Utilize advanced search and filter options to find the exact vehicles or parts you need.*
 
 ---
 
 ### 🎥 Videos
 
-**1. Listing Management**
-[![Listing Management Video](https://img.youtube.com/vi/o6xA20J1ThU/maxresdefault.jpg)](https://youtu.be/o6xA20J1ThU)
-*Watch how you can effortlessly manage and list vehicles or auto parts.*
+1. **Listing Management**
+   - [Watch the Listing Management Video](https://youtu.be/o6xA20J1ThU)
+   - *Learn how to effortlessly manage your listings, including adding, editing, and deleting.*
 
-**2. Detail Screen**
-[![Detail Screen Video](https://img.youtube.com/vi/55udmKIJ0CU/maxresdefault.jpg)](https://youtu.be/55udmKIJ0CU)
-*Get a closer look at the detailed view of vehicle listings, including images and map locations.*
+2. **Detail Screen**
+   - [Watch the Detail Screen Video](https://youtu.be/55udmKIJ0CU)
+   - *Explore the detailed view of vehicle listings, including high-resolution images and map integration.*
 
-**3. Chat Feature**
-[![Chat Feature Video](https://img.youtube.com/vi/wXaKX9Dgsuc/maxresdefault.jpg)](https://youtu.be/wXaKX9Dgsuc)
-*See how the in-app chat feature enhances communication between buyers and sellers.*
+3. **Chat Feature**
+   - [Watch the Chat Feature Video](https://youtu.be/wXaKX9Dgsuc)
+   - *See the in-app chat feature in action, facilitating direct communication between buyers and sellers.*
 
-**4. Search & Filter Feature**
-[![Search & Filter Feature Video](https://img.youtube.com/vi/AVCtrwxUHog/maxresdefault.jpg)](https://youtu.be/AVCtrwxUHog)
-*Discover how the search and filter options help you find specific listings based on various criteria.*
+4. **Search & Filter Feature**
+   - [Watch the Search & Filter Feature Video](https://youtu.be/AVCtrwxUHog)
+   - *Discover how the search and filter functionalities help you find specific listings quickly and efficiently.*
+
 
 ## Tech Stack
 * **Flutter** (Client-side development)

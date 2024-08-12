@@ -21,37 +21,34 @@ BuyBox is a comprehensive automotive marketplace app built with Flutter and Fire
 
 ## Screenshots & Videos
 
-## Screenshots & Videos
-
 ### 📸 Screenshots
 
 1. **User Authentication Screens**
-   - ![Sign Up Screen](assets/media/Signup_Login.png)
+   ![Sign Up Screen](assets/media/Signup_Login.png)
    - *Explore the seamless sign-up and login process of BuyBox, ensuring a smooth onboarding experience.*
 
 2. **Drawer View**
-   - ![Drawer Comparison](assets/media/Drawer_Signed_vs_NotSigned.png)
+   ![Drawer Comparison](assets/media/Drawer_Signed_vs_NotSigned.png)
    - *See the difference between signed-in and not signed-in views, giving users access to personalized features when signed in.*
 
-3. **In-App Communication**
-   - ![In App Communication](assets/media/Chat_Features.png)
-   - *Experience the in-app chat feature, enabling seamless communication between buyers and sellers.*
-
+3. **Listing Management**
+   ![Listing Management](assets/media/Listing_Managment.png)
+   - *Efficiently manage and list your vehicles or auto parts, with easy-to-use editing and deleting features.*
 4. **Detailed Vehicle Information**
-   - ![Detailed Vehicle Information](assets/media/Detailed_Vehicle_Information.png)
+   ![Detailed Vehicle Information](assets/media/Detailed_Vehicle_Information.png)
    - *Get a comprehensive look at vehicle details, including images, descriptions, and location maps.*
 
-5. **Listing Management**
-   - ![Listing Management](assets/media/Listing_Managment.png)
-   - *Efficiently manage and list your vehicles or auto parts, with easy-to-use editing and deleting features.*
+5. **In-App Communication**
+   ![In App Communication](assets/media/Chat_Features.png)
+   - *Experience the in-app chat feature, enabling seamless communication between buyers and sellers.*
 
-6. **Profile & Saved Items**
-   - ![Profile & Saved Items](assets/media/MyProfile&SavedItems.png)
-   - *Manage your profile and keep track of your favorite listings in one convenient place.*
-
-7. **Search & Filter Features**
-   - ![Search & Filter Features](assets/media/Search&FIlter.png)
+6. **Search & Filter Features**
+    ![Search & Filter Features](assets/media/Search&FIlter.png)
    - *Utilize advanced search and filter options to find the exact vehicles or parts you need.*
+
+7. **Profile & Saved Items**
+   ![Profile & Saved Items](assets/media/MyProfile&SavedItems.png)
+   - *Manage your profile and keep track of your favorite listings in one convenient place.*
 
 ---
 

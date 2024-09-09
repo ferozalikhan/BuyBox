@@ -48,6 +48,13 @@ google-services.json
 GoogleService-Info.plist 
 **/firebase_app_id_file.json
 
+# Ignore configuration files with sensitive data
+config/
+*.env
+firebase_options.dart
+lib/firebase_options.dart
+
+
 # ignore .firebaserc for all examples
 **/.firebaserc
 

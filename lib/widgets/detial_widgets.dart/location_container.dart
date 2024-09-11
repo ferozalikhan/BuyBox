@@ -16,7 +16,7 @@ class _LocationContainerState extends State<LocationContainer> {
   String get locationImage {
     final lat = widget.currproduct.sellerLocation.latitude;
     final lng = widget.currproduct.sellerLocation.longitude;
-    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=13&size=600x300&maptype=roadmap&key=AIzaSyC8lNFtDhIHNfZF2aCV_kc7O-qrF0oW12o';
+    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=13&size=600x300&maptype=roadmap&key=your_api_key_here';
   }
 
   @override

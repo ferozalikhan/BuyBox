@@ -147,7 +147,7 @@ For any inquiries, feedback, or contributions, please reach out to:
 - **Email:** [ferozkhan@mail.com](mailto:ferozalikhan666@gmail.com)  
   *Feel free to email me with any questions or feedback about BuyBox.*
 
-- **GitHub Issues:** [BuyBox GitHub Issues](https://github.com/feroz-ali-khan/buybox/issues)  
+- **GitHub Issues:** [BuyBox GitHub Issues](https://github.com/ferozalikhan/BuyBox/issues)  
   *Report bugs, request features, or ask for help directly on the GitHub issues page.*
 
 - **LinkedIn:** [Feroz Khan](https://www.linkedin.com/in/feroz-khan-95a166318/)  
